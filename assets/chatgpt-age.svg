@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="860" height="360" preserveAspectRatio="xMinYMin meet" viewBox="0 0 860 360" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="860" height="360"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-360)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="860" height="360" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 205,70 L 205,320 Z" style="stroke: rgb(88%,89%,90%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="201.386" y="48" style="font-family: Helvetica; font-size: 13px;fill: rgb(32%,34%,36%); stroke:none;" transform="translate(0,96) scale(1,-1)">0</text>
+			<path d="M 316,70 L 316,320 Z" style="stroke: rgb(88%,89%,90%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="308.772" y="48" style="font-family: Helvetica; font-size: 13px;fill: rgb(32%,34%,36%); stroke:none;" transform="translate(0,96) scale(1,-1)">15</text>
+			<path d="M 427,70 L 427,320 Z" style="stroke: rgb(88%,89%,90%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="419.772" y="48" style="font-family: Helvetica; font-size: 13px;fill: rgb(32%,34%,36%); stroke:none;" transform="translate(0,96) scale(1,-1)">30</text>
+			<path d="M 538,70 L 538,320 Z" style="stroke: rgb(88%,89%,90%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="530.772" y="48" style="font-family: Helvetica; font-size: 13px;fill: rgb(32%,34%,36%); stroke:none;" transform="translate(0,96) scale(1,-1)">45</text>
+			<path d="M 649,70 L 649,320 Z" style="stroke: rgb(88%,89%,90%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="641.772" y="48" style="font-family: Helvetica; font-size: 13px;fill: rgb(32%,34%,36%); stroke:none;" transform="translate(0,96) scale(1,-1)">60</text>
+			<path d="M 760,70 L 760,320 Z" style="stroke: rgb(88%,89%,90%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="752.772" y="48" style="font-family: Helvetica; font-size: 13px;fill: rgb(32%,34%,36%); stroke:none;" transform="translate(0,96) scale(1,-1)">75</text>
+			<text x="112.29" y="284.875" style="font-family: Helvetica; font-size: 15px;fill: rgb(12%,12%,13%); stroke:none;" transform="translate(0,569) scale(1,-1)">Ages 18-29</text>
+			<rect x="205" y="271.875" width="451.4000000000001" height="32.5" style="stroke: rgb(9%,23%,32%); stroke-linecap: butt; stroke-width: 0.6; fill: rgb(9%,23%,32%); fill-rule: evenodd;"/>
+			<text x="666.4000000000001" y="284.875" style="font-family: Helvetica-Bold; font-size: 15px;fill: rgb(9%,23%,32%); stroke:none;" transform="translate(0,569) scale(1,-1)">61%</text>
+			<text x="112.29" y="222.375" style="font-family: Helvetica; font-size: 15px;fill: rgb(12%,12%,13%); stroke:none;" transform="translate(0,444) scale(1,-1)">Ages 30-49</text>
+			<rect x="205" y="209.375" width="407.0" height="32.5" style="stroke: rgb(9%,23%,32%); stroke-linecap: butt; stroke-width: 0.6; fill: rgb(9%,23%,32%); fill-rule: evenodd;"/>
+			<text x="622.0" y="222.375" style="font-family: Helvetica-Bold; font-size: 15px;fill: rgb(9%,23%,32%); stroke:none;" transform="translate(0,444) scale(1,-1)">55%</text>
+			<text x="112.29" y="159.875" style="font-family: Helvetica; font-size: 15px;fill: rgb(12%,12%,13%); stroke:none;" transform="translate(0,319) scale(1,-1)">Ages 50-64</text>
+			<rect x="205" y="146.875" width="273.8" height="32.5" style="stroke: rgb(9%,23%,32%); stroke-linecap: butt; stroke-width: 0.6; fill: rgb(9%,23%,32%); fill-rule: evenodd;"/>
+			<text x="488.8" y="159.875" style="font-family: Helvetica-Bold; font-size: 15px;fill: rgb(9%,23%,32%); stroke:none;" transform="translate(0,319) scale(1,-1)">37%</text>
+			<text x="125.205" y="97.375" style="font-family: Helvetica; font-size: 15px;fill: rgb(12%,12%,13%); stroke:none;" transform="translate(0,194) scale(1,-1)">Ages 65+</text>
+			<rect x="205" y="84.375" width="140.60000000000002" height="32.5" style="stroke: rgb(9%,23%,32%); stroke-linecap: butt; stroke-width: 0.6; fill: rgb(9%,23%,32%); fill-rule: evenodd;"/>
+			<text x="355.6" y="97.375" style="font-family: Helvetica-Bold; font-size: 15px;fill: rgb(9%,23%,32%); stroke:none;" transform="translate(0,194) scale(1,-1)">19%</text>
+			<text x="388.926" y="18" style="font-family: Helvetica; font-size: 13px;fill: rgb(32%,34%,36%); stroke:none;" transform="translate(0,36) scale(1,-1)">Share of adults in age group (%)</text>
+		</g>
+	</g>
+</svg>

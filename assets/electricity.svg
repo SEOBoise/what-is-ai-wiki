@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="860" height="360" preserveAspectRatio="xMinYMin meet" viewBox="0 0 860 360" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="860" height="360"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-360)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="860" height="360" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 205,70 L 205,320 Z" style="stroke: rgb(88%,89%,90%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="201.386" y="48" style="font-family: Helvetica; font-size: 13px;fill: rgb(32%,34%,36%); stroke:none;" transform="translate(0,96) scale(1,-1)">0</text>
+			<path d="M 316,70 L 316,320 Z" style="stroke: rgb(88%,89%,90%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="305.158" y="48" style="font-family: Helvetica; font-size: 13px;fill: rgb(32%,34%,36%); stroke:none;" transform="translate(0,96) scale(1,-1)">240</text>
+			<path d="M 427,70 L 427,320 Z" style="stroke: rgb(88%,89%,90%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="416.158" y="48" style="font-family: Helvetica; font-size: 13px;fill: rgb(32%,34%,36%); stroke:none;" transform="translate(0,96) scale(1,-1)">480</text>
+			<path d="M 538,70 L 538,320 Z" style="stroke: rgb(88%,89%,90%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="527.158" y="48" style="font-family: Helvetica; font-size: 13px;fill: rgb(32%,34%,36%); stroke:none;" transform="translate(0,96) scale(1,-1)">720</text>
+			<path d="M 649,70 L 649,320 Z" style="stroke: rgb(88%,89%,90%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="638.158" y="48" style="font-family: Helvetica; font-size: 13px;fill: rgb(32%,34%,36%); stroke:none;" transform="translate(0,96) scale(1,-1)">960</text>
+			<path d="M 760,70 L 760,320 Z" style="stroke: rgb(88%,89%,90%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="745.544" y="48" style="font-family: Helvetica; font-size: 13px;fill: rgb(32%,34%,36%); stroke:none;" transform="translate(0,96) scale(1,-1)">1200</text>
+			<text x="86.44500000000001" y="249.75" style="font-family: Helvetica; font-size: 15px;fill: rgb(12%,12%,13%); stroke:none;" transform="translate(0,499) scale(1,-1)">2025 / estimate</text>
+			<rect x="205" y="223.75" width="224.3125" height="65.0" style="stroke: rgb(9%,23%,32%); stroke-linecap: butt; stroke-width: 0.6; fill: rgb(9%,23%,32%); fill-rule: evenodd;"/>
+			<text x="439.3125" y="249.75" style="font-family: Helvetica-Bold; font-size: 15px;fill: rgb(9%,23%,32%); stroke:none;" transform="translate(0,499) scale(1,-1)">485 TWh</text>
+			<text x="78.105" y="124.75" style="font-family: Helvetica; font-size: 15px;fill: rgb(12%,12%,13%); stroke:none;" transform="translate(0,249) scale(1,-1)">2030 / projection</text>
+			<rect x="205" y="98.75" width="439.375" height="65.0" style="stroke: rgb(9%,23%,32%); stroke-linecap: butt; stroke-width: 0.6; fill: rgb(90%,93%,95%); fill-rule: evenodd;"/>
+			<path d="M 205,98.75 L 270,163.75 Z" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 217,98.75 L 282,163.75 Z" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 229,98.75 L 294,163.75 Z" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 241,98.75 L 306,163.75 Z" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 253,98.75 L 318,163.75 Z" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 265,98.75 L 330,163.75 Z" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 277,98.75 L 342,163.75 Z" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 289,98.75 L 354,163.75 Z" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 301,98.75 L 366,163.75 Z" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 313,98.75 L 378,163.75 Z" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 325,98.75 L 390,163.75 Z" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 337,98.75 L 402,163.75 Z" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 349,98.75 L 414,163.75 Z" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 361,98.75 L 426,163.75 Z" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 373,98.75 L 438,163.75 Z" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 385,98.75 L 450,163.75 Z" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 397,98.75 L 462,163.75 Z" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 409,98.75 L 474,163.75 Z" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 421,98.75 L 486,163.75 Z" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 433,98.75 L 498,163.75 Z" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 445,98.75 L 510,163.75 Z" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 457,98.75 L 522,163.75 Z" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 469,98.75 L 534,163.75 Z" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 481,98.75 L 546,163.75 Z" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 493,98.75 L 558,163.75 Z" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 505,98.75 L 570,163.75 Z" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 517,98.75 L 582,163.75 Z" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 529,98.75 L 594,163.75 Z" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 541,98.75 L 606,163.75 Z" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 553,98.75 L 618,163.75 Z" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 565,98.75 L 630,163.75 Z" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 577,98.75 L 642,163.75 Z" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 589,98.75 L 644.375,154.125 Z" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 601,98.75 L 644.375,142.125 Z" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 613,98.75 L 644.375,130.125 Z" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 625,98.75 L 644.375,118.125 Z" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 637,98.75 L 644.375,106.125 Z" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="654.375" y="124.75" style="font-family: Helvetica-Bold; font-size: 15px;fill: rgb(9%,23%,32%); stroke:none;" transform="translate(0,249) scale(1,-1)">950 TWh</text>
+			<text x="418.9365" y="18" style="font-family: Helvetica; font-size: 13px;fill: rgb(32%,34%,36%); stroke:none;" transform="translate(0,36) scale(1,-1)">Terawatt-hours (TWh)</text>
+		</g>
+	</g>
+</svg>

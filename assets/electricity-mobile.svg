@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="360" height="330" preserveAspectRatio="xMinYMin meet" viewBox="0 0 360 330" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="360" height="330"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-330)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="360" height="330" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="16" y="216.5" style="font-family: Helvetica; font-size: 15px;fill: rgb(12%,12%,13%); stroke:none;" transform="translate(0,433) scale(1,-1)">2025 / estimate</text>
+			<rect x="16" y="188.5" width="278" height="18.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(93%,94%,96%); fill-rule: evenodd;"/>
+			<rect x="16" y="188.5" width="112.35833333333335" height="18.0" style="stroke: rgb(9%,23%,32%); stroke-linecap: butt; stroke-width: 0.5; fill: rgb(9%,23%,32%); fill-rule: evenodd;"/>
+			<text x="135.35833333333335" y="191.5" style="font-family: Helvetica-Bold; font-size: 14px;fill: rgb(9%,23%,32%); stroke:none;" transform="translate(0,383) scale(1,-1)">485</text>
+			<text x="16" y="84.0" style="font-family: Helvetica; font-size: 15px;fill: rgb(12%,12%,13%); stroke:none;" transform="translate(0,168) scale(1,-1)">2030 / projection</text>
+			<rect x="16" y="56.0" width="278" height="18.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(93%,94%,96%); fill-rule: evenodd;"/>
+			<rect x="16" y="56.0" width="220.08333333333331" height="18.0" style="stroke: rgb(9%,23%,32%); stroke-linecap: butt; stroke-width: 0.5; fill: rgb(81%,87%,92%); fill-rule: evenodd;"/>
+			<path d="M 16,56 L 34,74 Z" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 28,56 L 46,74 Z" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 40,56 L 58,74 Z" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 52,56 L 70,74 Z" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 64,56 L 82,74 Z" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 76,56 L 94,74 Z" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 88,56 L 106,74 Z" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 100,56 L 118,74 Z" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 112,56 L 130,74 Z" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 124,56 L 142,74 Z" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 136,56 L 154,74 Z" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 148,56 L 166,74 Z" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 160,56 L 178,74 Z" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 172,56 L 190,74 Z" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 184,56 L 202,74 Z" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 196,56 L 214,74 Z" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 208,56 L 226,74 Z" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 220,56 L 236.083333,72.083333 Z" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 232,56 L 236.083333,60.083333 Z" style="stroke: rgb(41%,52%,60%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="243.08333333333331" y="59.0" style="font-family: Helvetica-Bold; font-size: 14px;fill: rgb(9%,23%,32%); stroke:none;" transform="translate(0,118) scale(1,-1)">950</text>
+			<text x="16" y="17" style="font-family: Helvetica; font-size: 12px;fill: rgb(32%,34%,36%); stroke:none;" transform="translate(0,34) scale(1,-1)">Scale starts at 0; terawatt-hours (TWh)</text>
+		</g>
+	</g>
+</svg>

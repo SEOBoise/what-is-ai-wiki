@@ -1,0 +1,12 @@
+
+(()=>{
+document.querySelectorAll('[data-current-year]').forEach(node=>{node.textContent=String(new Date().getFullYear())});
+const form=document.querySelector('.search'),input=document.querySelector('#wiki-search'),panel=document.querySelector('.search-panel');
+if(!form||!input||!panel){return}
+const list=panel.querySelector('ul'),status=panel.querySelector('[role=status]'),submit=form.querySelector('button[type=submit]');
+const blocks=[...document.querySelectorAll('main section[id],main h2[id],main h3[id],.references li[id]')];
+const close=()=>{panel.hidden=true;submit?.setAttribute('aria-expanded','false')};
+form.addEventListener('submit',e=>{e.preventDefault();const query=input.value.trim().toLocaleLowerCase();list.replaceChildren();if(!query){status.textContent='Enter a topic or term to search this page.';panel.hidden=false;submit?.setAttribute('aria-expanded','true');return}const found=[];const seen=new Set();for(const block of blocks){const heading=block.matches('h2,h3')?block:block.querySelector('h2,h3');let text=block.innerText;if(block.matches('h2,h3')){let sibling=block.nextElementSibling;while(sibling&&!sibling.matches('h2,h3')){text+=' '+sibling.innerText;sibling=sibling.nextElementSibling}}if(text.toLocaleLowerCase().includes(query)&&!seen.has(block.id)){seen.add(block.id);found.push({id:block.id,label:heading?.textContent||block.querySelector('strong')?.textContent||'Source note'})}}for(const result of found.slice(0,10)){const li=document.createElement('li'),a=document.createElement('a');a.href='#'+result.id;a.textContent=result.label;a.addEventListener('click',()=>{close();const target=document.getElementById(result.id);target.setAttribute('tabindex','-1');target.focus({preventScroll:true})});li.append(a);list.append(li)}status.textContent=found.length?`${Math.min(found.length,10)} matching sections${found.length>10?' (first 10 shown)':''}.`:'No matching sections. Try a broader term such as training or statistics.';panel.hidden=false;submit?.setAttribute('aria-expanded','true')});
+panel.querySelector('button').addEventListener('click',()=>{close();input.focus()});document.addEventListener('keydown',e=>{if(e.key==='Escape'&&!panel.hidden){close();input.focus()}});document.querySelector('.print')?.addEventListener('click',()=>window.print());
+const contents=document.querySelector('.contents');if(contents&&matchMedia('(max-width:650px)').matches)contents.open=false;
+})();

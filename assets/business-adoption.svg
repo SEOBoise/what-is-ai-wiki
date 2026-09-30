@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="860" height="360" preserveAspectRatio="xMinYMin meet" viewBox="0 0 860 360" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="860" height="360"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-360)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="860" height="360" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 205,70 L 205,320 Z" style="stroke: rgb(88%,89%,90%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="201.386" y="48" style="font-family: Helvetica; font-size: 13px;fill: rgb(32%,34%,36%); stroke:none;" transform="translate(0,96) scale(1,-1)">0</text>
+			<path d="M 316,70 L 316,320 Z" style="stroke: rgb(88%,89%,90%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="308.772" y="48" style="font-family: Helvetica; font-size: 13px;fill: rgb(32%,34%,36%); stroke:none;" transform="translate(0,96) scale(1,-1)">10</text>
+			<path d="M 427,70 L 427,320 Z" style="stroke: rgb(88%,89%,90%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="419.772" y="48" style="font-family: Helvetica; font-size: 13px;fill: rgb(32%,34%,36%); stroke:none;" transform="translate(0,96) scale(1,-1)">20</text>
+			<path d="M 538,70 L 538,320 Z" style="stroke: rgb(88%,89%,90%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="530.772" y="48" style="font-family: Helvetica; font-size: 13px;fill: rgb(32%,34%,36%); stroke:none;" transform="translate(0,96) scale(1,-1)">30</text>
+			<path d="M 649,70 L 649,320 Z" style="stroke: rgb(88%,89%,90%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="641.772" y="48" style="font-family: Helvetica; font-size: 13px;fill: rgb(32%,34%,36%); stroke:none;" transform="translate(0,96) scale(1,-1)">40</text>
+			<path d="M 760,70 L 760,320 Z" style="stroke: rgb(88%,89%,90%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="752.772" y="48" style="font-family: Helvetica; font-size: 13px;fill: rgb(32%,34%,36%); stroke:none;" transform="translate(0,96) scale(1,-1)">50</text>
+			<text x="113.97" y="273.1666666666667" style="font-family: Helvetica; font-size: 15px;fill: rgb(12%,12%,13%); stroke:none;" transform="translate(0,546) scale(1,-1)">Information</text>
+			<rect x="205" y="255.83333333333334" width="440.6700000000001" height="43.33333333333334" style="stroke: rgb(9%,23%,32%); stroke-linecap: butt; stroke-width: 0.6; fill: rgb(9%,23%,32%); fill-rule: evenodd;"/>
+			<text x="655.6700000000001" y="273.1666666666667" style="font-family: Helvetica-Bold; font-size: 15px;fill: rgb(9%,23%,32%); stroke:none;" transform="translate(0,546) scale(1,-1)">39.7%</text>
+			<text x="52.275000000000006" y="189.83333333333334" style="font-family: Helvetica; font-size: 15px;fill: rgb(12%,12%,13%); stroke:none;" transform="translate(0,379) scale(1,-1)">Finance &amp; insurance</text>
+			<rect x="205" y="172.5" width="376.28999999999996" height="43.33333333333334" style="stroke: rgb(9%,23%,32%); stroke-linecap: butt; stroke-width: 0.6; fill: rgb(9%,23%,32%); fill-rule: evenodd;"/>
+			<text x="591.29" y="189.83333333333334" style="font-family: Helvetica-Bold; font-size: 15px;fill: rgb(9%,23%,32%); stroke:none;" transform="translate(0,379) scale(1,-1)">33.9%</text>
+			<text x="103.96499999999999" y="106.5" style="font-family: Helvetica; font-size: 15px;fill: rgb(12%,12%,13%); stroke:none;" transform="translate(0,213) scale(1,-1)">National rate</text>
+			<rect x="205" y="89.16666666666667" width="219.77999999999997" height="43.33333333333333" style="stroke: rgb(9%,23%,32%); stroke-linecap: butt; stroke-width: 0.6; fill: rgb(9%,23%,32%); fill-rule: evenodd;"/>
+			<text x="434.78" y="106.5" style="font-family: Helvetica-Bold; font-size: 15px;fill: rgb(9%,23%,32%); stroke:none;" transform="translate(0,213) scale(1,-1)">19.8%</text>
+			<text x="411.6955" y="18" style="font-family: Helvetica; font-size: 13px;fill: rgb(32%,34%,36%); stroke:none;" transform="translate(0,36) scale(1,-1)">Share of businesses (%)</text>
+		</g>
+	</g>
+</svg>

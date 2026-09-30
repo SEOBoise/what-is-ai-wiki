@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="360" height="330" preserveAspectRatio="xMinYMin meet" viewBox="0 0 360 330" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="360" height="330"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-330)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="360" height="330" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="16" y="260.6666666666667" style="font-family: Helvetica; font-size: 15px;fill: rgb(12%,12%,13%); stroke:none;" transform="translate(0,521) scale(1,-1)">Information</text>
+			<rect x="16" y="232.66666666666669" width="278" height="18.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(93%,94%,96%); fill-rule: evenodd;"/>
+			<rect x="16" y="232.66666666666669" width="220.732" height="18.0" style="stroke: rgb(9%,23%,32%); stroke-linecap: butt; stroke-width: 0.5; fill: rgb(9%,23%,32%); fill-rule: evenodd;"/>
+			<text x="243.732" y="235.66666666666669" style="font-family: Helvetica-Bold; font-size: 14px;fill: rgb(9%,23%,32%); stroke:none;" transform="translate(0,471) scale(1,-1)">39.7%</text>
+			<text x="16" y="172.33333333333334" style="font-family: Helvetica; font-size: 15px;fill: rgb(12%,12%,13%); stroke:none;" transform="translate(0,344) scale(1,-1)">Finance &amp; insurance</text>
+			<rect x="16" y="144.33333333333334" width="278" height="18.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(93%,94%,96%); fill-rule: evenodd;"/>
+			<rect x="16" y="144.33333333333334" width="188.48399999999998" height="18.0" style="stroke: rgb(9%,23%,32%); stroke-linecap: butt; stroke-width: 0.5; fill: rgb(9%,23%,32%); fill-rule: evenodd;"/>
+			<text x="211.48399999999998" y="147.33333333333334" style="font-family: Helvetica-Bold; font-size: 14px;fill: rgb(9%,23%,32%); stroke:none;" transform="translate(0,294) scale(1,-1)">33.9%</text>
+			<text x="16" y="84.0" style="font-family: Helvetica; font-size: 15px;fill: rgb(12%,12%,13%); stroke:none;" transform="translate(0,168) scale(1,-1)">National rate</text>
+			<rect x="16" y="56.0" width="278" height="18.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(93%,94%,96%); fill-rule: evenodd;"/>
+			<rect x="16" y="56.0" width="110.08800000000001" height="18.0" style="stroke: rgb(9%,23%,32%); stroke-linecap: butt; stroke-width: 0.5; fill: rgb(9%,23%,32%); fill-rule: evenodd;"/>
+			<text x="133.08800000000002" y="59.0" style="font-family: Helvetica-Bold; font-size: 14px;fill: rgb(9%,23%,32%); stroke:none;" transform="translate(0,118) scale(1,-1)">19.8%</text>
+			<text x="16" y="17" style="font-family: Helvetica; font-size: 12px;fill: rgb(32%,34%,36%); stroke:none;" transform="translate(0,34) scale(1,-1)">Scale starts at 0; percent (%)</text>
+		</g>
+	</g>
+</svg>
